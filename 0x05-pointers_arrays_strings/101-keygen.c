@@ -11,7 +11,7 @@
 int main(void)
 {
 char a[100];
-int r, n i;
+int r, n, i;
 n = 0;
 i = 0;
 srand(time(NULL));
